@@ -5,6 +5,9 @@
 In preparation for MSFS 2024, which will likely require large model/texture changes in order to take advantage of new features, I am leaving this pack in its current state to see what happens next with AIG and default MSFS AI Traffic.
 You should face no issues using this on vatsim, it is more than future proofed.
 
+
+Compatibility of this pack with MSFS2024 is not tested and no support will be given. A dedicated MSFS 2024 pack is available at https://github.com/Samueleonard/AIG-ModelMatching-For-MSFS2024
+
 ## <b>INSTALL</b>
 
 Download from - 
